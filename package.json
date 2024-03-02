@@ -1,0 +1,23 @@
+{
+  "name": "npm-use-njy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niejingying/npm-use-njy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niejingying/npm-use-njy/issues"
+  },
+  "homepage": "https://github.com/niejingying/npm-use-njy#readme",
+  "dependencies": {
+	"npm-tools-njy": "1.0.0"
+
+  }
+}

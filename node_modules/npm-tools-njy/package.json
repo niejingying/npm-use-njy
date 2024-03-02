@@ -1,0 +1,22 @@
+{
+  "name": "npm-tools-njy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niejingying/npm-tools-njy.git"
+  },
+  "keywords": [
+    "npm-tools-njy"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niejingying/npm-tools-njy/issues"
+  },
+  "homepage": "https://github.com/niejingying/npm-tools-njy#readme"
+}
